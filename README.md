@@ -21,5 +21,3 @@ A menu-driven console application built in C++ to manage and analyze student aca
 g++ main.cpp -o result
 ./result
 
-## Author
-Anushka Keche
